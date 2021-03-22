@@ -17,5 +17,5 @@ steps:
     echo Add other tasks to build, test, and deploy your project.
     echo See https://aka.ms/yaml
   displayName: 'Run a multi-line script'
-task: WhiteSource Bolt@19
+-task: WhiteSource Bolt@19
   displayName: 'WhiteSource Bolt'
